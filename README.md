@@ -3,7 +3,7 @@ Ports Scaning tools in linux is programmed with C Language.
 
 # What is IPortScan?
 
-IPortScan just a tool with C Language and open source for every one <br>you can send a Pull Request to work with me <br>in developing it , the project
+IPortScan just a tool with C Language and open source for every oneyou can send a Pull Request to work with mein developing it , the project
 is just a start.
 
 <br><br>
