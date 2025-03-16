@@ -3,7 +3,7 @@ Ports Scaning tools in linux is programmed with C Language.
 
 # What is IPortScan?
 
-IPortScan just a tool with  C Language and open source  <br>for every one you can send a PULL Request to work with me <br>in developing it , the project <br>
+IPortScan just a tool with C Language and open source for every one <br>you can send a Pull Request to work with me <br>in developing it , the project
 is just a start.
 
 <br><br>
@@ -15,7 +15,7 @@ is just a start.
 
 
 # Usage
-If you need to 
+If you need to compile the source code by yourself <br>
 `cd IPortScan`<br><br>
 `gcc IPortScan.c -o IPortScan`<br><br>
 `./IPortScan`<br><br>
