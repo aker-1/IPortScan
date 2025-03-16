@@ -1,14 +1,11 @@
 # IPortScan
 Ports Scaning tools in linux is programmed with C Language.
-# GeminaL
-<p align="center">
-  <img src="Geminal_Logo.jpg" alt="GeminaL Logo" width="830" height="600" style="border-radius: 50%; border: 1px solid white;">
-</p>
 
-# What is GeminaL?
+# What is IPortScan?
 
-GeminaL is an open-source tool written in Bash, allowing to you <br>
-to use ai in your terminal
+IPortScan just a tool with  C Language and open source for every one <br>
+you can send a PULL Request to work with me in developing it , the project <br>
+is just a start.
 
 <br><br>
 
